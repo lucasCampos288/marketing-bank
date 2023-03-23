@@ -1,0 +1,3 @@
+#!C:\Users\Lucas\resp\marketing_banco\marketing_banco\Scripts\python.exe
+from numba.pycc import main
+main()

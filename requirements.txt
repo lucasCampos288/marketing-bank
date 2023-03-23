@@ -1,0 +1,14 @@
+boto3
+botocore
+inflection
+mysql
+mysql-connector-python
+mysqlclient
+numpy
+pandas
+papermill
+psycopg2-binary
+PyMySQL
+scikit-learn
+seaborn
+SQLAlchemy
